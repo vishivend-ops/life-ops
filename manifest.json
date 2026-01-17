@@ -1,0 +1,16 @@
+{
+  "name": "Life Ops",
+  "short_name": "LifeOps",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b7285",
+  "theme_color": "#0b7285",
+  "description": "Minimal recurring personal tasks, local-only.",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
